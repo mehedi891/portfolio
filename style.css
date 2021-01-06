@@ -1,0 +1,142 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+
+    font-family: 'Goldman', cursive;
+    margin:0;
+    padding:0;
+}
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 60px;
+}
+.name-color{
+    color:indianred;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:2%;
+    padding:3%;
+}
+.half-width img{
+    width:100%;
+    
+}
+.button1{
+    text-decoration:none;
+    background-image: linear-gradient(60deg,#bf00ff,#0040ff,#ff0000);
+    padding:15px 60px;
+    border-radius: 20px;
+    color:white;
+    font-size:35px;
+    
+}
+.p-margin{
+    margin-bottom:40px;
+    font-size:20px;
+}
+
+}
+.about-area{
+    width:800px;
+    height:700px;
+    margin-bottom: 300px;
+}
+.margin-fix{
+    margin-bottom:300px;
+}
+.margin-fix2{
+    margin-bottom:10px;
+}
+
+.half-width2{
+    width:400px;
+    float:left;
+    margin-left: 100px;
+}
+.half-width2 img{
+    width:100%;
+}
+.work-area h2{
+    text-align: center;
+}
+.box1{
+    box-shadow: 20px 20px 40px grey;
+    border-radius: 20px;
+    padding:30px;
+}
+.work-area{
+    margin-bottom:550px;
+}
+.inquiry{
+    width: 81%;
+    height: 200px;
+    background-image: url(images/Group_33094_1.png);
+    margin-left: 6%;
+    margin-bottom: 100px;
+    box-shadow: 20px 20px 26px red;
+    border-radius: 20px;
+}
+    
+    
+}
+.inquiry img{
+    width:100%;
+
+}
+.inquiry2{
+    float: left;
+    padding:20px;
+}
+.button5{
+    padding: 30px;
+    margin-left: 890px;
+    margin-top: -163px;
+    
+    
+}
+.inquiry2 h2{
+    color:white;
+}
+.last-sec h3{
+    text-align: center;
+    font-size:30px;
+    color:rgb(131, 131, 131);
+
+}
+.last-sec2{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+    
+}
+.last-sec p{
+    text-align: center;
+}
+.skill{
+    height:500px;
+}
+.skill1{
+    width:200px;
+    float:left;
+    margin-left: 100px
+}
+.skill h2{
+    text-align: center;
+}
+.skill h4{
+    color:dimgray;
+    text-align: center;
+}
+.box2{
+    box-shadow: 20px 20px 40px darkred;
+    border-radius: 93px;
+    padding: 30px;
+}
+footer p {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
